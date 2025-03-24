@@ -1,33 +1,25 @@
-# EI_IA_Projeto
-O objetivo deste projeto é realizar a classificação de imagens utilizando modelos baseados em redes neurais convolucionais.
+# AI_Project
+The goal of this project is to classify images using convolutional neural network-based models.
 
-## Desenvolvimento do Projeto
-O projeto está desenvolvido em etapas, incluindo:
+## Project Development
+The project is structured in stages, including:
 
-1. Exploração e pré-processamento dos dados.
-2. Implementação de modelos de redes neurais convolucionais.
-3. Treinamento e avaliação dos modelos.
-4. Análise dos resultados.
 
-## Requisitos
-O projeto possui os seguintes requisitos:
-- Devem ser utilizados e descritos conjuntos de dados de treino, validação e teste;
-- Devem ser utilizadas imagens RGB (três canais);
-- Deve ser desenvolvido pelo menos um modelo de raiz (que aqui denominamos por
-modelo S). Pelo menos um destes modelos deve ser diferente do modelo desenvolvido
-nas aulas;
-- Devem ser explorados pelo menos dois otimizadores distintos;
-- Os modelos S devem ser treinados com e sem data augmentation;
-- Devem ser desenvolvidos modelos utilizando transfer learning (que aqui denominamos
-por modelos T) usando as técnicas de feature extraction e fine tuning;
-- Os modelos T também devem ser treinados com e sem data augmentation.
+1. Data exploration and preprocessing.
+2. Implementation of convolutional neural network models.
+3. Training and evaluation of the models.
+4. Analysis of the results.
 
-## Cotações
-- 05% -> Processamento dos dados
-- 35% -> Modelos S
-- 30% -> Modelos T
-- 20% -> Relatório
-- 10% -> Extras
+## Requirements
+The project must meet the following requirements:
+
+- Training, validation, and test datasets must be used and properly described.
+- RGB images (three channels) must be utilized.
+- At least one model must be developed from scratch (referred to here as model S). At least one of these models must be different from the ones covered in class.
+- At least two different optimizers must be explored.
+- Model S must be trained both with and without data augmentation.
+- Transfer learning models (referred to here as model T) must be developed using feature extraction and fine-tuning techniques.
+- Model T must also be trained both with and without data augmentation
 
 ### Help
 - CNN
